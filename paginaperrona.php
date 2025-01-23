@@ -13,7 +13,7 @@
 	}
 	if($log == true)
 	{
-
+		echo "<br>";	
 		echo "<br>";
 		echo "<h3>Bienvenido $user</h3>";		
 	}
